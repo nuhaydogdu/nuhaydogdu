@@ -33,7 +33,7 @@
 
 ###
 
-<p align="left">- 📚 I'm a fourth-year student pursuing a Bachelor's degree in Computer Engineering at Manisa Celal Bayar University. Currently, I'm focus on learning web development. I enjoy researching and learning.</p>
+<p align="left">- 📚 Currently, I'm focus on learning web development. I enjoy researching and learning.</p>
 
 ###
 
